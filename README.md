@@ -13,7 +13,7 @@
 </a>
 
 <a href="https://discord.com/users/550616137180774402">
-  <img align="center" height="180px" src="https://lanyard-profile-readme.vercel.app/api/550616137180774402" />
+  <img align="center" height="160px" src="https://lanyard-profile-readme.vercel.app/api/550616137180774402" />
 </a>
 
 <a href="https://github.com/kanatBektursyn">
