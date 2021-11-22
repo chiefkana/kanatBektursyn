@@ -7,7 +7,15 @@
 - 💬  Ask me about Javascript and Linux
 - 📫  How to reach me: <mailto: kanat.bektursyn@gmail.com>
 
-
+<div style="display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  grid-gap: 10px;
+  grid-auto-rows: 100px;
+  grid-template-areas:
+    "a a a a b b b b"
+    "a a a a b b b b"
+    "c c c c d d d d"
+    "c c c c d d d d";">
 <a href="https://github.com/kanatBektursyn">
   <img align="left" height="360px" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanatBektursyn&count_private=true&bg_color=1a1c20&title_color=ffffff&text_color=cccccc&hide_border=true&show_icons=true&border_radius=10px" />
 </a>
@@ -19,3 +27,4 @@
 <a href="https://github.com/kanatBektursyn">
   <img align="center" height="179px" src="https://github-readme-stats.vercel.app/api?username=kanatBektursyn&count_private=true&bg_color=1a1c20&title_color=ffffff&text_color=cccccc&hide_border=true&show_icons=true&border_radius=10px" />
 </a>
+</div>
