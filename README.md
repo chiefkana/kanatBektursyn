@@ -1,7 +1,7 @@
 # **Hi there 👋**
 ## **My name is Kanat!**
 
-- 👔  I’m currently working at Merlion Development Group
+- 👔  I’m currently working at Devurai
 - 💻  I’m currently learning React, NextJS, NestJS and NodeJS web server
 - 🤝  I’m looking to collaborate on JavaScript Projects
 - 💬  Ask me about Javascript and Linux
