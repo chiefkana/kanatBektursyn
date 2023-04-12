@@ -1,7 +1,7 @@
 # **Hi there 👋**
 ## **My name is Kanat!**
 
-- 👔  I’m currently working at TengizChevrOil, Chevron
+- 👔  I’m currently working at Tengizchevroil
 - 💻  I’m currently learning NextJS and NestJS
 - 🤝  I’m looking to collaborate on TypeScript Projects
 - 💬  Ask me about TypeScript, FrontEnd technologies
