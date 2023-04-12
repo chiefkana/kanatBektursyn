@@ -1,10 +1,10 @@
 # **Hi there 👋**
 ## **My name is Kanat!**
 
-- 👔  I’m currently working at Devurai
-- 💻  I’m currently learning React, NextJS, NestJS and NodeJS web server
-- 🤝  I’m looking to collaborate on JavaScript Projects
-- 💬  Ask me about Javascript and Linux
+- 👔  I’m currently working at TengizChevrOil, Chevron
+- 💻  I’m currently learning NextJS and NestJS
+- 🤝  I’m looking to collaborate on TypeScript Projects
+- 💬  Ask me about TypeScript, FrontEnd technologies
 - 📫  How to reach me: <mailto: kanat.bektursyn@gmail.com>
 
 <div style="display: grid;
